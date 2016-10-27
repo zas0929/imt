@@ -1,1 +1,3 @@
-alert()
+alert();
+prompt();
+console.log();
