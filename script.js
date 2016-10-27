@@ -1,1 +1,3 @@
-alert()
+function test() {
+	alert(123)
+}
